@@ -26,3 +26,9 @@ Es un trtado abolicionista. Sus tres autorxs buscaron datos para apoyar su causa
 
 **Philip Meyer**
 - Precursor del periodismo de datos premoderno (60-70).
+- Descubre un caso de corrupción gubernamental y las empresas de seguros. Esto lo hizo a papel, sin ordenador. 
+- *Aplicaciones informáticas*: 
+- Harvard Computation Center. Busca predecir los resultados electorales de Ohio (sin éxito)
+- Philip Meyer decide usar los métodos de investigación cuantitativos para el periodismo (encuestas por ejemplo).
+- Revueltas de la ciudad de Detroit en 1967: 46 personas muertas.Se propone realizar una encuesta que busque las causas de la revuelta. Meyer utiliza un IBM 360/40 y así es como se da lugar al **Periodismo de precisión**
+- **Computer assisted reported**: Los periodistas empiezan a usar el ordenador como herramienta (en sus inicios no es periodismo de datos, aunque a día de hoy son una misma cosa)
