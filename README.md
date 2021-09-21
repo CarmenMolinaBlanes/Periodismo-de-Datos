@@ -32,3 +32,14 @@ Es un trtado abolicionista. Sus tres autorxs buscaron datos para apoyar su causa
 - Philip Meyer decide usar los métodos de investigación cuantitativos para el periodismo (encuestas por ejemplo).
 - Revueltas de la ciudad de Detroit en 1967: 46 personas muertas.Se propone realizar una encuesta que busque las causas de la revuelta. Meyer utiliza un IBM 360/40 y así es como se da lugar al **Periodismo de precisión**
 - **Computer assisted reported**: Los periodistas empiezan a usar el ordenador como herramienta (en sus inicios no es periodismo de datos, aunque a día de hoy son una misma cosa)
+# Magistral
+## 21/09/2021
+**CSV**
+- Texto separado por comas
+
+**Markdown**
+- Strings: cadena de caracteres (lenguaje natural)
+
+**Tab** tabulador. **TSV** Valores separados por tabulación. *Asterisco*SV (valores separados por cualquier signo) **SQL** (Tablas con valores, por ejemplo en wordpress)
+
+**TIPOS DE DATOS**
