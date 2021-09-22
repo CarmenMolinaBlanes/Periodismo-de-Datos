@@ -43,3 +43,7 @@ Es un trtado abolicionista. Sus tres autorxs buscaron datos para apoyar su causa
 **Tab** tabulador. **TSV** Valores separados por tabulación. *Asterisco*SV (valores separados por cualquier signo) **SQL** (Tablas con valores, por ejemplo en wordpress)
 
 **TIPOS DE DATOS**
+
+# Prácticas 
+## 22/09/2021
+### 
