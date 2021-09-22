@@ -51,6 +51,8 @@ Es un trtado abolicionista. Sus tres autorxs buscaron datos para apoyar su causa
 - Decimal
 - Fechas: =YYYY-MM-DD=
 - Se pueden poner datos negativos
-### Strings: cadenas de caracteres
-### Booleanos: Representan dos valores de una lógica binaria
+### Strings
+Cadenas de caracteres
+### Booleanos
+  Representan dos valores de una lógica binaria
 
