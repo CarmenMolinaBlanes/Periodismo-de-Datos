@@ -42,8 +42,15 @@ Es un trtado abolicionista. Sus tres autorxs buscaron datos para apoyar su causa
 
 **Tab** tabulador. **TSV** Valores separados por tabulación. *Asterisco*SV (valores separados por cualquier signo) **SQL** (Tablas con valores, por ejemplo en wordpress)
 
-**TIPOS DE DATOS**
-
+**TIPOS DE FORMATOS DE DATOS**
+- Vamos a trabajar los SV
 # Prácticas 
 ## 22/09/2021
-### 
+### Datos numéricos
+- Enteros: Cuidado con los separadores de millar (coma o punto). Con Openrefine se quita.
+- Decimal
+- Fechas: =YYYY-MM-DD=
+- Se pueden poner datos negativos
+### Strings: cadenas de caracteres
+### Booleanos: Representan dos valores de una lógica binaria
+
