@@ -1,4 +1,7 @@
-https://elpais.com/elpais/2011/04/13/media/1302692233_720215.html
+![Captura](https://user-images.githubusercontent.com/90564520/141127758-a9ffe62b-118b-4532-9ead-fde0bb1a3cb2.PNG)
+- #Link#
+- https://elpais.com/elpais/2011/04/13/media/1302692233_720215.html
+- #Información#
 - En esta infografía se compara la situación socioeconómica de Barcelona con la de Madrid
 - Esa comparación trabaja con múltiples datos, entre ellos: paro, vivienda, salud...etc
 - Considero que para la realización de esta infografía se ha debido utilizar un programa destinado al manejo de datos (como excel), además de un programa destinado al diseño.
