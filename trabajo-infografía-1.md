@@ -8,5 +8,5 @@
 - La utilidad de esta infografía se basa en la posibilidad de visualizar datos de forma sencilla y accesible para las personas con un nivel cultural medio, puesto que, si se muestran estos datos sin imagen y sin procesar podría resultar confuso.
 - Esta comparativa utiliza diversos tipos de gráficos:
     - Los primeros son circulares y los datos de inmigrantes se muestran a través de un cambio de color en el área de la circunferencia. De esta forma, podemos ver la comparativa de forma rápida. 
-    - Los son de barras y ocupan la mayoría de la infografía
+    - Los siguientes son de barras y ocupan la mayoría de la infografía
     - Además de esto podemos encontrar una tabla comparativa con datos
