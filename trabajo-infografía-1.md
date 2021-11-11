@@ -1,12 +1,12 @@
 ![Captura](https://user-images.githubusercontent.com/90564520/141127758-a9ffe62b-118b-4532-9ead-fde0bb1a3cb2.PNG)
-- #Link#
+- # Link
 - https://elpais.com/elpais/2011/04/13/media/1302692233_720215.html
-- #Información#
+- # Información
 - En esta infografía se compara la situación socioeconómica de Barcelona con la de Madrid
-- Esa comparación trabaja con múltiples datos, entre ellos: paro, vivienda, salud...etc
+- Esa comparación trabaja con múltiples categorías, entre ellas: paro, vivienda, salud...etc
 - Considero que para la realización de esta infografía se ha debido utilizar un programa destinado al manejo de datos (como excel), además de un programa destinado al diseño.
 - La utilidad de esta infografía se basa en la posibilidad de visualizar datos de forma sencilla y accesible para las personas con un nivel cultural medio, puesto que, si se muestran estos datos sin imagen y sin procesar podría resultar confuso.
 - Esta comparativa utiliza diversos tipos de gráficos:
     - Los primeros son circulares y los datos de inmigrantes se muestran a través de un cambio de color en el área de la circunferencia. De esta forma, podemos ver la comparativa de forma rápida. 
-    - Los son de barras y ocupan la mayoría de la infografía
+    - Los siguientes son de barras y ocupan la mayoría de la infografía
     - Además de esto podemos encontrar una tabla comparativa con datos
