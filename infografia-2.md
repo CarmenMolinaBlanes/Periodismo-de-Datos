@@ -1,5 +1,5 @@
 # Entrega segunda: Infografía
-![Esta infografía muestra una valoración humorística de las últimas noticias relacionadas con la cultura pop. La imagen se trata de un cuadrante de coordenadas donde la variable Y cuenta con las categorías Brillante y Despreciable mientras que la variable X cuenta con las categorías Alta Cultura y Baja Cultura](/img/foto-infografia-practica-2.png The Approval Matrix)
+![Esta infografía muestra una valoración humorística de las últimas noticias relacionadas con la cultura pop. La imagen se trata de un cuadrante de coordenadas donde la variable Y cuenta con las categorías Brillante y Despreciable mientras que la variable X cuenta con las categorías Alta Cultura y Baja Cultura](/img/foto-infografia-practica-2.png)
 - **The Approval Matrix, NOV 5, 2021, Kate Wellington**
 ## Análisis
 ### Introducción
