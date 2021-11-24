@@ -1,5 +1,6 @@
 # Práctica 3 de periodismo de datos
 ## Imágenes
+![Este gráfico de dispersión muestra la frecuencia con la que se publican tweets que comienzan con "feli" y el volumen de visualizaciones](/img/16b92-los-tweets-con-m-s-visualizaciones-entre-junio-y-julio.png)
 ## Explicación del proceso: terminal y Openrefine
 - Para el siguiente proyecto ha sido necesario el uso de la terminal a la hora de descargar los archivos que, posteriormente, se filtrarían con el programa Openrefine. El archivo feliz.csv fue descargado a través del comando "git clone". Este comando permite que las carpetas y archivos presentes en un repositorio de Github se descarguen en el ordenador, por lo que posibilita que se pueda trabajar desde la terminal con ellos.
 - Tras esto, subí el archivo a Openrefine, donde pude filtrar los datos que quería estudiar. En primer lugar, indiqué el tipo de datos con los que contabacada columna: texto, fecha, número...etc. De esta forma, Openrefine me permitía hacer uso de su sistema de visualización de datos, lo que me facilitó su selección y la eliminación de aquellos que no me eran útiles.
