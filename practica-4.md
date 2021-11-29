@@ -8,7 +8,7 @@ Después de esto he usado la función facet (text) para seleccionar las filas qu
 
 ![Esta imagen muestra cómo se marca star en OpenRefine](/img/OpenRefine-star.PNG)
 
-![Esta imagen muestra la función de remove matching row](/img/OpenRefine-remove-catching.PNG)  
+![Esta imagen muestra la función de remove matching row](/img/OpenRefine-remove-matching.PNG)  
 
 Para relizar algunas de las gráficas, me he visto obligada a eliminar algunas celdas que, para posteriores gráficas, me eran útiles. Por lo tanto, he hecho uso de la función "undo" para recuperar los datos borrados.
 
