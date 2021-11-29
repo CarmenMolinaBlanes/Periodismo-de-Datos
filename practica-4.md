@@ -63,10 +63,15 @@ En este gráfico de dispersión he utilizado diversos elementos a analizar:
 
 ![actuaciones policiales en los cuatro distritos con más incidentes](/img/actuaciones-policiales-en-los-cuatro-distritos-con-m-s-incidentes-octubre-2021-madrid.png)
 
+En este gráfico podemos observar de forma diferenciada el volumen de actuaciones policiales en los cuatro distritos de Madrid con más incidencia y la causa de las mismas. Para ello, he marcado cada distrito con un color diferente (todos tonalidades del azul) mostrando la tonalidad más oscura aquel distrioto con mayor incidencia de delitos (el centro, que aparece en azul oscuro), mientras que la tonalidad más clara muestra el distrito con menor incidencia (San Blas). 
+
+Por otra parte, he marcado que se muestren los datos exactos de cada variable. Ya que, de lo contrario, es posible visualizar un volumen aproximado, pero no la exactitud que corresponde a cada distrito. 
 
 
-![comparativa en las actuaciones policiales en tres distritos](/img/PCVCx-comparativa-en-las-actuaciones-policiales-entre-tres-distritos.png)
+![consumo de alcohol en la vía pública por distritos](/img/consumo-de-alcohol-en-la-v-a-p-blica-por-distritos.png)
 
-![pie chart de consumo de alcohol pro parte de adultos en la vía pública por distritos](/img/consumo-de-alcohol-en-la-v-a-p-blica-por-distritos.png)
+En este gráfico muestro las zonas con casos consumo de alcohol en la vía pública que oscilan entre los 200 y los 1000. Estos datos están divididos por distritos y muestran la cifra exacta de infricciones por zona. El uso de este tipo de gráfico se debe a la cantidad de distritos analizados, que se pueden visualizar de forma rápida en forma de circunfefrencia. Por otra parte, vuelvo a utiliar tonalidades de azul para distinguir las distintas zonas y evitar la monocromía. Auqnue estos colores son medianamente azarosos ya que hay algunos en celeste con cifras de hasta 792 delitos y otros en azul oscuro con solo 256.
+
 
 ![actuaciones policiales por accidentes de tráfico](/img/actuaciones-policiales-por-accidentes-de-coche-octubre-2021-madrid-.png)
+
