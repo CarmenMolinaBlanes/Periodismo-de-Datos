@@ -18,7 +18,7 @@ Una función que he utilizado con bastante asiduidad ha sido "sort". a través d
 
 Otra forma en la que he utilizado la función facet ha sido para seleccionar rangos numéricos. Por ejemplo, en la gráfica donde muestro de forma comparativa los distritos con más de 200 casos de actuaciones policiales por consumo de alcohol en la vía pública por parte de adultos y con menos de 1000.
 
-![Esta imagen muestra el uso de facet en OpenRefine](/img/OpenRefine facet.PNG)
+![Esta imagen muestra el uso de facet en OpenRefine](/img/OpenRefine-facet.PNG)
 
 ### Datawrapper
 
