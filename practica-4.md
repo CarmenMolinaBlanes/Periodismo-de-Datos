@@ -43,11 +43,27 @@ Por último, he hecho uso de la función de "insertar título" e "insertar descr
 
 ![actuaciones policiales por tenencia de armas por distritos](/img/actuaciones-policiales-por-tenencia-de-armas-octubre-2021-madrid-.png)
 
+En esta imagen he analizado los datos de tenencia de armas por distritos de Madrid. El uso de un gráfico de columnas permite que se visualice fácilmente cuáles son las zonas donde se ha cometido este delito con más frecuencia. 
+
+Al ser la posesión de armas una fuente de peligro, he dividido los colores según el nivel de peligrosidad de la zona. El rojo, el naranja, el amarillo y el verde son los colores que he utilizado para representar el concepto de la peligrosidad. Esto se debe a que, naturalmente, identificamos el rojo, el amarillo y el verde con grados de peligro. Esto se utiliza tanto en gráficos de meteorología como en los propios semáforos.
+
+En este gráfico, podemos observar que en Octubre de 2021 las zonas con más actuaciones policiales por tenencia de armas fueron Puente de Vallecas y Centro.
+
 ![mapa de actuaciones policiales por tenencia de drogas por distritos de Madrid](/img/tenencia-de-drogas-en-madrid-por-distritos.png)
+
+En este mapa podemos ver, con tonalidades de azul, las zonas donde ha habido más actuaciones policiales por tenencia de drogas (en azul más oscuro) y las  zonas en las que ha habido menos (azul más claro, llegando incluso a parecer color pistacho). 
+
+He etiquetado únicamente las zonas más grandes del mapa para que el lector habitante de Madrid pueda ubicarse en el mapa. 
 
 ![gráfico de dispersión que compara las actuaciones por tenencia de drogas y por consumo](/img/relaci-n-entre-las-detenciones-por-consumo-y-tenencia-de-drogas.png)
 
+En este gráfico de dispersión he utilizado diversos elementos a analizar:
+- El primero es el uso de una línea de frecuencia, que evidencia que la relación entre las actuaciones policiales por tenencia de drogas no son directamente proporcionales a las de consumo de las mismas. Esto se debe a que hay una gran cantidad de zonas (ćomo Villa de Vallecas, Arganzuela o Chamberí) donde la presencia de delitos por tenencia de drogas es muy baja, mientras que los delitos por consumo de las mismas son llamativamente altos. Es por ello que la línea no es continua, sino que genera una forma convexa.
+- Por otra parte, es destacable el cambio de colores en los datos de la gráfica. Este trata de mostrar con más intensidad aquellos datos con mayor incidencia de ambas variables (o aquellos que tienen una incidencia muy notable de una sola, como Villa de Vallecas, Arganzuela o Chamberí). Además, estos datos son los únicos que vienen acompañados de un nombre, lo que ayuda a que resalten aún más.
+
 ![actuaciones policiales en los cuatro distritos con más incidentes](/img/actuaciones-policiales-en-los-cuatro-distritos-con-m-s-incidentes-octubre-2021-madrid.png)
+
+
 
 ![comparativa en las actuaciones policiales en tres distritos](/img/PCVCx-comparativa-en-las-actuaciones-policiales-entre-tres-distritos.png)
 
