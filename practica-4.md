@@ -16,7 +16,9 @@ if "con víctimas" in value: return "Accidente con víctimas"
 
 Una función que he utilizado con bastante asiduidad ha sido "sort". a través de esta función he podido hallar, por ejemplo, cuáles son las cuatro zonas de Madrid con más actuaciones policiales en términos de conflictos entre personas (por ejemplo). 
 
-Otra forma en la que he utilizado la función facet ha sido para seleccionar rangos numéricos. Por ejemplo, en la gráfica donde muestro de forma comparativa los distritos con más de 200 casos de actuaciones policiales por consumo de alcohol en la vía pública por parte de adultros y con menos de 1000.
+Otra forma en la que he utilizado la función facet ha sido para seleccionar rangos numéricos. Por ejemplo, en la gráfica donde muestro de forma comparativa los distritos con más de 200 casos de actuaciones policiales por consumo de alcohol en la vía pública por parte de adultos y con menos de 1000.
+
+![Esta imagen muestra el uso de facet en OpenRefine](/img/OpenRefine facet.PNG)
 
 ### Datawrapper
 
