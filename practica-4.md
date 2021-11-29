@@ -37,3 +37,20 @@ Por otra parte, he usado diversos tipos de gráfico, ya que Datawrapper da una a
 A la hora de elaborar las visualizaciones, he utilizado principalmente el cambio de colores, las etiquetas...etc.
 
 Por último, he hecho uso de la función de "insertar título" e "insertar descripción" para que los gráficos puedan comprenderse mejor.
+
+
+### Análisis
+
+![actuaciones policiales por tenencia de armas por distritos](/img/actuaciones-policiales-por-tenencia-de-armas-octubre-2021-madrid-.png)
+
+![mapa de actuaciones policiales por tenencia de drogas por distritos de Madrid](/img/tenencia-de-drogas-en-madrid-por-distritos.png)
+
+![gráfico de dispersión que compara las actuaciones por tenencia de drogas y por consumo](/img/relaci-n-entre-las-detenciones-por-consumo-y-tenencia-de-drogas.png)
+
+![actuaciones policiales en los cuatro distritos con más incidentes](/img/actuaciones-policiales-en-los-cuatro-distritos-con-m-s-incidentes-octubre-2021-madrid.png)
+
+![comparativa en las actuaciones policiales en tres distritos](/img/PCVCx-comparativa-en-las-actuaciones-policiales-entre-tres-distritos.png)
+
+![pie chart de consumo de alcohol pro parte de adultos en la vía pública por distritos](/img/consumo-de-alcohol-en-la-v-a-p-blica-por-distritos.png)
+
+![actuaciones policiales por accidentes de tráfico](/img/actuaciones-policiales-por-accidentes-de-coche-octubre-2021-madrid-.png)
