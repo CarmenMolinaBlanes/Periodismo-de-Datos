@@ -1,77 +1,3 @@
-<!doctype html>
-<html lang="en" class="h-100">
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="">
-    <meta name="author" content="Mark Otto, Jacob Thornton, and Bootstrap contributors">
-    <meta name="generator" content="Hugo 0.88.1">
-    <title>Mis trabajos de Github</title>
-
-    <link rel="canonical" href="https://getbootstrap.com/docs/5.1/examples/sticky-footer-navbar/">
-
-    
-
-    <!-- Bootstrap core CSS -->
-<link href="bootstrap.min.css" rel="stylesheet">
-
-    <style>
-      .bd-placeholder-img {
-        font-size: 1.125rem;
-        text-anchor: middle;
-        -webkit-user-select: none;
-        -moz-user-select: none;
-        user-select: none;
-      }
-
-      @media (min-width: 768px) {
-        .bd-placeholder-img-lg {
-          font-size: 3.5rem;
-        }
-      }
-    </style>
-
-    
-    <!-- Custom styles for this template -->
-    <link href="css/sticky-footer-navbar.css" rel="stylesheet">
-  </head>
-  <body class="d-flex flex-column h-100">
-    
-<header>
-  <!-- Fixed navbar -->
-  <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
-    <div class="container-fluid">
-      <a class="navbar-brand" href="#">Fixed navbar</a>
-      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
-        <span class="navbar-toggler-icon"></span>
-      </button>
-      <div class="collapse navbar-collapse" id="navbarCollapse">
-        <ul class="navbar-nav me-auto mb-2 mb-md-0">
-          <li class="nav-item">
-            <a class="nav-link active" aria-current="page" href="#">Home</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="#">Link</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link disabled">Disabled</a>
-          </li>
-        </ul>
-        <form class="d-flex">
-          <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
-          <button class="btn btn-outline-success" type="submit">Search</button>
-        </form>
-      </div>
-    </div>
-  </nav>
-</header>
-
-<!-- Begin page content -->
-<main class="flex-shrink-0">
-  <div class="container">
-    <h1 class="mt-5">Sticky footer with fixed navbar</h1>
-<p class="lead">Pin a footer to the bottom of the viewport in desktop browsers with this custom HTML and CSS. A fixed navbar has been added with <code class="small">padding-top: 60px;</code> on the <code class="small">main &gt; .container</code>.</p>
-<p>Back to <a href="../examples/sticky-footer/">the default sticky footer</a> minus the navbar.</p>
 <p><img src="https://user-images.githubusercontent.com/90564520/141127758-a9ffe62b-118b-4532-9ead-fde0bb1a3cb2.PNG" alt="Captura" /></p>
 <ul>
 <li><h1 id="link">Link</h1></li>
@@ -88,7 +14,6 @@
 <li>Además de esto podemos encontrar una tabla comparativa con datos</li>
 </ul></li>
 </ul>
-
 <h1 id="entrega-segunda-infografía">Entrega segunda: Infografía</h1>
 <p><img src="img/foto-infografia-practica-2.png" alt="Esta infografía muestra una valoración humorística de las últimas noticias relacionadas con la cultura pop. La imagen se trata de un cuadrante de coordenadas donde la variable Y cuenta con las categorías Brillante y Despreciable mientras que la variable X cuenta con las categorías Alta Cultura y Baja Cultura" /></p>
 <ul>
@@ -198,17 +123,37 @@
 <p><img src="img/consumo-de-alcohol-en-la-v-a-p-blica-por-distritos.png" alt="consumo de alcohol en la vía pública por distritos" /></p>
 <p>En este gráfico muestro las zonas con casos consumo de alcohol en la vía pública que oscilan entre los 200 y los 1000. Estos datos están divididos por distritos y muestran la cifra exacta de infricciones por zona. El uso de este tipo de gráfico se debe a la cantidad de distritos analizados, que se pueden visualizar de forma rápida en forma de circunfefrencia. Por otra parte, vuelvo a utiliar tonalidades de azul para distinguir las distintas zonas y evitar la monocromía. Auqnue estos colores son medianamente azarosos ya que hay algunos en celeste con cifras de hasta 792 delitos y otros en azul oscuro con solo 256.</p>
 <p><img src="img/actuaciones-policiales-por-accidentes-de-coche-octubre-2021-madrid-.png" alt="actuaciones policiales por accidentes de tráfico" /></p>
-
-</main>
-<footer class="footer mt-auto py-3 bg-light">
-  <div class="container">
-    <span class="text-muted">Place sticky footer content here.</span>
-  </div>
-</footer>
-
-
-    <script src="bootstrap.bundle.min.js"></script>
-
-      
-  </body>
-</html>
+<h1 id="subida-a-pandoc">Subida a Pandoc</h1>
+<h2 id="proceso-de-descarga-y-creación-de-archivos-html">Proceso de descarga y creación de archivos .html</h2>
+<ul>
+<li>Descarga de Pandoc y creación de la carpeta css/ desde la terminal (creé la carpeta con mkdir).</li>
+<li>Extraigo archivo de estilo y lo añado a index.html. Este archivo se llama bootstrap.min.css y el proceso se realizó desde nano.</li>
+<li>He creado con mkdir un archivo llamado docs/ donde he movido (con mv) index.html y sticky-footer-navbar.css.</li>
+<li>Tras esto, he creado un archivo .md fuera de mi repositorio al que he llamado pandoctest.md. Este tenía la finalidad de testear la aplicación Pandoc y su utilidad para transformar md en html. <img src="img/terminal-prueba-pacdoc.PNG" alt="testeo de pandoctest.md" /></li>
+<li>Después he entrado en mi-repositorio y dentro de esta carpeta he convertido (con Pandoc) mis trabajos en .md en archivos .index.html. Esto lo he realizado desde la función "pandoc practica-3.md -o practica-3.index.html". <img src="img/terminal-oficial-pandoc.PNG" alt="conversión oficial" /></li>
+</ul>
+<h2 id="edición-de-indexhtml">Edición de index.html</h2>
+<ul>
+<li>En primer lugar he modificado el título a través de nano. He cambiado el título inicial por &lt;title&gt;Mis trabajos de Github&lt;/title&gt;</li>
+<li>Me descargo bootstrap.bundle.min.js para mantener el diseño original del archivo index.html</li>
+<li>Entro en Pandoc y cambio a html5</li>
+<li>Este código lo copio y lo pego en el cuerpo de index.html. El cuerpo comineza después de la marca <!--Begin page content--> y el código de las prácticas las he copiado después de &lt;div class="container"&gt;</li>
+<li></li>
+</ul>
+<p><img src="https://user-images.githubusercontent.com/90564520/141127758-a9ffe62b-118b-4532-9ead-fde0bb1a3cb2.PNG" alt="Captura" /></p>
+<ul>
+<li><h1 id="link-1">Link</h1></li>
+<li><a href="https://elpais.com/elpais/2011/04/13/media/1302692233_720215.html">https://elpais.com/elpais/2011/04/13/media/1302692233_720215.html</a></li>
+<li><h1 id="información">Información</h1></li>
+<li>En esta infografía se compara la situación socioeconómica de Barcelona con la de Madrid</li>
+<li>Esa comparación trabaja con múltiples categorías, entre ellas: paro, vivienda, salud...etc</li>
+<li>Considero que para la realización de esta infografía se ha debido utilizar un programa destinado al manejo de datos (como excel), además de un programa destinado al diseño.</li>
+<li>La utilidad de esta infografía se basa en la posibilidad de visualizar datos de forma sencilla y accesible para las personas con un nivel cultural medio, puesto que, si se muestran estos datos sin imagen y sin procesar podría resultar confuso.</li>
+<li>Esta comparativa utiliza diversos tipos de gráficos:
+<ul>
+<li>Los primeros son circulares y los datos de inmigrantes se muestran a través de un cambio de color en el área de la circunferencia. De esta forma, podemos ver la comparativa de forma rápida.</li>
+<li>Los siguientes son de barras y ocupan la mayoría de la infografía</li>
+<li>Además de esto podemos encontrar una tabla comparativa con datos</li>
+</ul></li>
+</ul>
+<h1 id="trabajos">TRABAJOS</h1>
