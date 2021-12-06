@@ -7,6 +7,7 @@
 - Tras esto, he creado un archivo .md fuera de mi repositorio al que he llamado pandoctest.md. Este tenía la finalidad de testear la aplicación Pandoc y su utilidad para transformar md en html. 
 ![testeo de pandoctest.md](/img/terminal-prueba-pacdoc.PNG)
 - Después he entrado en mi-repositorio desde la terminal y dentro de esta carpeta he convertido (con Pandoc) mis trabajos .md en archivos .html. Esto lo he realizado desde la función "pandoc practica-3.md -o practica-3.index.html".Otra forma de convertir archivos .md en .html es "pandoc -f practica-3.md -t practica-3.html". 
+
 ![conversión oficial](/img/terminal-oficial-pandoc.PNG) 
 ## Edición de index.html
 - En primer lugar he modificado el título a través de nano. He cambiado el título inicial por \<title\>Mis trabajos de Github\<\/title\>
