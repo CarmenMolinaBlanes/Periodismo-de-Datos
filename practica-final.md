@@ -14,3 +14,4 @@
 - Uso el comando cat <nombre del archivo>.html <nombre del archivo 2>.html...  > metodologia.html para unir todos los archivos html
 - Modifico con nano los enlaces a las imagenenes para que se muestren correctamente en el archivo. 
 - Este código lo copio y lo pego con nano en el cuerpo de index.html. El cuerpo comineza después de la marca <!--Begin page content--> y el código de las prácticas las he copiado después de \<div class\=\"container\"\>  
+- Para ordenar mi repositorio he creado una carpeta con mkdir llamada html/ y con el comando mv he movido los archivos *.html
