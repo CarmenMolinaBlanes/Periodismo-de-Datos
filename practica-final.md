@@ -16,10 +16,10 @@
 - Tras esto he modificado con nano los enlaces a las imagenenes para que se muestren correctamente en el archivo. Para ello además ha sido necesario insertar la carpeta img/ dentro de la carpeta docs/. 
 - El código html presente en el archivo everything.html lo copio y lo pego con nano en el cuerpo de index.html. El cuerpo comineza después de la marca <!--Begin page content--> y el código de las prácticas lo he copiado después de \<div class\=\"container\"\>  
 - Para ordenar mi repositorio he creado una carpeta con mkdir llamada html/ y con el comando mv he movido los archivos *.html. Posteriormente y a petición del profesor, he usado el comando mv para mover la carpeta html/ dentro de la carpeta docs/. Por último, he cambiado los nombres de los archivos .html que aparecían como .index.html con el comando mv.
-- Posteriormente, para organizar la información (sobre todo para los lectores con dificultades de visión) he utilizado la función <section> (para abrir una parte) y </section> (para cerrarla)
+- Posteriormente, para organizar la información (sobre todo para los lectores con dificultades de visión) he utilizado la función /</section/>/ (para abrir una parte) y /</section>/ (para cerrarla)
 - He modificado la navbar de la siguiente manera:
 ![modificiación de la navbar](/img/Cambiar-el-navbar.PNG)
 - He modificado el footer con el siguiente comando:
-![modificiación del título](/img/cambiodetitulo.PNG.PNG)
+![modificiación del título](/img/cambiodetitulo.PNG)
 - El título y subtítulo los he cambiado así: 
-![modificiación del footer](/img/cambiofooter.PNG.PNG)
+![modificiación del footer](/img/cambiofooter.PNG)
