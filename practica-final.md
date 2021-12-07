@@ -18,19 +18,17 @@
 - Para ordenar mi repositorio he creado una carpeta con mkdir llamada html/ y con el comando mv he movido los archivos *.html. Posteriormente y a petición del profesor, he usado el comando mv para mover la carpeta html/ dentro de la carpeta docs/. Por último, he cambiado los nombres de los archivos .html que aparecían como .index.html con el comando mv.
 - Posteriormente, para organizar la información (sobre todo para los lectores con dificultades de visión) he utilizado la función <section> (para abrir una parte) y </section> (para cerrarla)
 - He modificado la navbar de la siguiente manera:
-![modificiación de la navbar](/img/Cambiar el navbar.PNG)
+![modificiación de la navbar](/img/Cambiar-el-navbar.PNG)
 - He modificado el footer con el siguiente comando:
 
-<footer class="footer mt-auto py-3 bg-light">
-211   <div class="container">
-212     <span class="text-muted">Carmen Molina Blanes. Alumna de Periodismo de d
-    atos. 2021-2022.</span>
-213   </div>
-214 </footer>
+</footer class="footer mt-auto py-3 bg-light"/>/
+       </div class="container"\/>/
+     </span class="text-muted"/>/Carmen Molina Blanes. Alumna de Periodismo de datos. 2021-2022.</span>
+   </div>/
+214 </footer>/
 
 - El título y subtítulo los he cambiado así:
 
-<h1 class="mt-5">Mis trabajos</h1>
+/</h1 class="mt-5">Mis trabajos/<//h1>
 
- <p class="lead">En esta web podemos ver los trabajos que he realizado en el
-    curso</p>
+ /</p class="lead">En esta web podemos ver los trabajos que he realizado en el curso</p/>/
