@@ -20,15 +20,6 @@
 - He modificado la navbar de la siguiente manera:
 ![modificiación de la navbar](/img/Cambiar-el-navbar.PNG)
 - He modificado el footer con el siguiente comando:
-
-</footer class="footer mt-auto py-3 bg-light"/>/
-       </div class="container"\/>/
-     </span class="text-muted"/>/Carmen Molina Blanes. Alumna de Periodismo de datos. 2021-2022.</span>
-   </div>/
-214 </footer>/
-
-- El título y subtítulo los he cambiado así:
-
-/</h1 class="mt-5">Mis trabajos/<//h1>
-
- /</p class="lead">En esta web podemos ver los trabajos que he realizado en el curso</p/>/
+![modificiación del título](/img/cambiodetitulo.PNG.PNG)
+- El título y subtítulo los he cambiado así: 
+![modificiación del footer](/img/cambiofooter.PNG.PNG)
