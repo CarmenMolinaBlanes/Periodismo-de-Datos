@@ -1,0 +1,1 @@
+*Atención* Faltan 2 csv, el correspondiente al gráfico de dispersión y el del consumo de alcohol del segundo trabajo con Datawrapper, pero espero que las capturas realizadas en el README explicativo del proceso que realicé en Openrefine y los otros 5 archivos csv sean prueba suficiente de que sé utilizar elprograma y que no he hecho uso de otras herramientas
